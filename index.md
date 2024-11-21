@@ -6,3 +6,7 @@ I added a greeting and introduced myself.
 ``` javascript
 var myVar = "Hello, world! I'm Kami!";
 ```
+
+- [x] Make a portfolio
+- [x] Have fun
+- [ ] Make Fun Friday flyer 
